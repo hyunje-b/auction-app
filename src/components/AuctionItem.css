@@ -1,0 +1,25 @@
+.auction-item {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  background-color: #fff;
+}
+
+.auction-item img.car-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.auction-item button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
